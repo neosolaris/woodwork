@@ -4,7 +4,7 @@ Borisu - Wood Work Portpolio
 
 ## 포트폴리오
 
-- 다운로드: [portpolio.zip](portpolio.zip)
+- 다운로드 - [portpolio.zip](portpolio.zip)
 
 ## 제작 및 전시회
 
@@ -14,5 +14,5 @@ Borisu - Wood Work Portpolio
 
 ## ETC
 
-* Email: [batutah@gmail.com](mailto:batutah@gmail.com)
-* Blog: [neosolaris.github.io](neosolaris.github.io)
+* Email - [batutah@gmail.com](mailto:batutah@gmail.com)
+* Blog -: [neosolaris.github.io](neosolaris.github.io)
