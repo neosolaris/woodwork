@@ -15,4 +15,4 @@ Borisu - Wood Work Portpolio
 ## ETC
 
 * Email - [batutah@gmail.com](mailto:batutah@gmail.com)
-* Blog -: [neosolaris.github.io](neosolaris.github.io)
+* Blog - [neosolaris.github.io](https://neosolaris.github.io)
