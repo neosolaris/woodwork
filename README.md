@@ -4,7 +4,7 @@ Borisu - Wood Work Portpolio
 
 ## 포트폴리오
 
-- 다운로드 - [portpolio.zip](portpolio.zip)
+- 다운로드 - [portfolio.zip](portfolio.zip)
 
 ## 제작 및 전시회
 
