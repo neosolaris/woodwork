@@ -6,6 +6,6 @@ permalink: /Archive/
 ---
 last updated: {{ "now" | date: "%Y-%m-%d %H:%M" }}
 
-# This is Archive Page
+## This is Archive Page
 - haha
 - hoho
