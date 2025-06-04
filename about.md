@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-date: Sun Mar 17 11:45:00 UTC 2024
+date: Thu Jun  5 00:53:18 KST 2025
 permalink: /about/
 ---
 last updated: {{ "now" | date: "%Y-%m-%d %H:%M" }}
