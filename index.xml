@@ -2,30 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Borisu Woodlamp</title>
-    <link>https://neosolaris.github.io/woodlamp/</link>
+    <link>https://examplesite.com/</link>
     <description>Recent content on Borisu Woodlamp</description>
     <image>
       <title>Borisu Woodlamp</title>
-      <url>https://neosolaris.github.io/woodlamp/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://neosolaris.github.io/woodlamp/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jun 2025 08:37:14 +0000</lastBuildDate>
-    <atom:link href="https://neosolaris.github.io/woodlamp/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jun 2025 07:37:14 +0000</lastBuildDate>
+    <atom:link href="https://examplesite.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Title</title>
+      <link>https://examplesite.com/posts/new/</link>
+      <pubDate>Mon, 09 Jun 2025 07:37:14 +0000</pubDate>
+      <guid>https://examplesite.com/posts/new/</guid>
+      <description>&lt;h2 id=&#34;haha-hoho&#34;&gt;haha hoho&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;haha&lt;/li&gt;
+&lt;li&gt;hoho&lt;/li&gt;
+&lt;li&gt;hihi&lt;/li&gt;
+&lt;li&gt;kiki&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>나무조명3</title>
-      <link>https://neosolaris.github.io/woodlamp/posts/third_post/</link>
+      <link>https://examplesite.com/posts/third_post/</link>
       <pubDate>Thu, 05 Jun 2025 08:37:14 +0000</pubDate>
-      <guid>https://neosolaris.github.io/woodlamp/posts/third_post/</guid>
+      <guid>https://examplesite.com/posts/third_post/</guid>
       <description>&lt;p&gt;레트로 감성의 작은 나무등을 만들었다.
 작은 나무토막을 가공하여 탁자나 책상등에 올려 놓고 은은한 불빛의 감성에 빠져 보자.&lt;/p&gt;</description>
     </item>
     <item>
       <title>About</title>
-      <link>https://neosolaris.github.io/woodlamp/about/</link>
+      <link>https://examplesite.com/about/</link>
       <pubDate>Thu, 05 Jun 2025 07:57:14 +0000</pubDate>
-      <guid>https://neosolaris.github.io/woodlamp/about/</guid>
+      <guid>https://examplesite.com/about/</guid>
       <description>&lt;ul&gt;
 &lt;li&gt;위키문서를 관리하기 위한 홈페이지.&lt;/li&gt;
 &lt;li&gt;번잡하고 화려한 기술과 지나친 관리 용량을 피한다.&lt;/li&gt;
@@ -37,12 +50,12 @@
     </item>
     <item>
       <title>나무조명1</title>
-      <link>https://neosolaris.github.io/woodlamp/posts/first_post/</link>
+      <link>https://examplesite.com/posts/first_post/</link>
       <pubDate>Thu, 05 Jun 2025 07:37:14 +0000</pubDate>
-      <guid>https://neosolaris.github.io/woodlamp/posts/first_post/</guid>
+      <guid>https://examplesite.com/posts/first_post/</guid>
       <description>&lt;p&gt;여기는 처음 시작하는 줄이고 아래는 본문에 그림을 삽입한 것&lt;/p&gt;
 &lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://neosolaris.github.io/woodlamp/images/lighthouse.jpg&#34;/&gt; &lt;figcaption&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://examplesite.com/images/lighthouse.jpg&#34;/&gt; &lt;figcaption&gt;
             Lighthouse (그림2)
         &lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -69,9 +82,9 @@
     </item>
     <item>
       <title>나무조명2</title>
-      <link>https://neosolaris.github.io/woodlamp/posts/second_post/</link>
+      <link>https://examplesite.com/posts/second_post/</link>
       <pubDate>Thu, 05 Jun 2025 07:37:14 +0000</pubDate>
-      <guid>https://neosolaris.github.io/woodlamp/posts/second_post/</guid>
+      <guid>https://examplesite.com/posts/second_post/</guid>
       <description>&lt;p&gt;&lt;a href=&#34;first_post&#34;&gt;first_post&lt;/a&gt;
 레트로 감성의 작은 나무등2를 만들었다.
 작은 나무토막을 가공하여 탁자나 책상등에 올려 놓고 은은한 불빛의 감성에 빠져 보자.&lt;/p&gt;

@@ -2,36 +2,43 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Borisu Woodlamp</title>
-    <link>https://neosolaris.github.io/woodlamp/tags/</link>
+    <link>https://examplesite.com/tags/</link>
     <description>Recent content in Tags on Borisu Woodlamp</description>
     <image>
       <title>Borisu Woodlamp</title>
-      <url>https://neosolaris.github.io/woodlamp/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://neosolaris.github.io/woodlamp/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Jun 2025 08:37:14 +0000</lastBuildDate>
-    <atom:link href="https://neosolaris.github.io/woodlamp/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Jun 2025 07:37:14 +0000</lastBuildDate>
+    <atom:link href="https://examplesite.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New</title>
+      <link>https://examplesite.com/tags/new/</link>
+      <pubDate>Mon, 09 Jun 2025 07:37:14 +0000</pubDate>
+      <guid>https://examplesite.com/tags/new/</guid>
+      <description></description>
+    </item>
     <item>
       <title>나무조명</title>
-      <link>https://neosolaris.github.io/woodlamp/tags/%EB%82%98%EB%AC%B4%EC%A1%B0%EB%AA%85/</link>
+      <link>https://examplesite.com/tags/%EB%82%98%EB%AC%B4%EC%A1%B0%EB%AA%85/</link>
       <pubDate>Thu, 05 Jun 2025 08:37:14 +0000</pubDate>
-      <guid>https://neosolaris.github.io/woodlamp/tags/%EB%82%98%EB%AC%B4%EC%A1%B0%EB%AA%85/</guid>
+      <guid>https://examplesite.com/tags/%EB%82%98%EB%AC%B4%EC%A1%B0%EB%AA%85/</guid>
       <description></description>
     </item>
     <item>
       <title>목공</title>
-      <link>https://neosolaris.github.io/woodlamp/tags/%EB%AA%A9%EA%B3%B5/</link>
+      <link>https://examplesite.com/tags/%EB%AA%A9%EA%B3%B5/</link>
       <pubDate>Thu, 05 Jun 2025 08:37:14 +0000</pubDate>
-      <guid>https://neosolaris.github.io/woodlamp/tags/%EB%AA%A9%EA%B3%B5/</guid>
+      <guid>https://examplesite.com/tags/%EB%AA%A9%EA%B3%B5/</guid>
       <description></description>
     </item>
     <item>
       <title>무드등</title>
-      <link>https://neosolaris.github.io/woodlamp/tags/%EB%AC%B4%EB%93%9C%EB%93%B1/</link>
+      <link>https://examplesite.com/tags/%EB%AC%B4%EB%93%9C%EB%93%B1/</link>
       <pubDate>Thu, 05 Jun 2025 08:37:14 +0000</pubDate>
-      <guid>https://neosolaris.github.io/woodlamp/tags/%EB%AC%B4%EB%93%9C%EB%93%B1/</guid>
+      <guid>https://examplesite.com/tags/%EB%AC%B4%EB%93%9C%EB%93%B1/</guid>
       <description></description>
     </item>
   </channel>
