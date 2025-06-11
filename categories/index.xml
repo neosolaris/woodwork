@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Categories on Borisu Woodlamp</title>
-    <link>https://examplesite.com/categories/</link>
+    <link>https://neosolaris.github.io/woodlamp/categories/</link>
     <description>Recent content in Categories on Borisu Woodlamp</description>
     <image>
       <title>Borisu Woodlamp</title>
-      <url>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://examplesite.com/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>https://neosolaris.github.io/woodlamp/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://neosolaris.github.io/woodlamp/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>en</language>
     <lastBuildDate>Mon, 09 Jun 2025 07:37:14 +0000</lastBuildDate>
-    <atom:link href="https://examplesite.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://neosolaris.github.io/woodlamp/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test</title>
-      <link>https://examplesite.com/categories/test/</link>
+      <link>https://neosolaris.github.io/woodlamp/categories/test/</link>
       <pubDate>Mon, 09 Jun 2025 07:37:14 +0000</pubDate>
-      <guid>https://examplesite.com/categories/test/</guid>
+      <guid>https://neosolaris.github.io/woodlamp/categories/test/</guid>
       <description></description>
     </item>
     <item>
       <title>조명</title>
-      <link>https://examplesite.com/categories/%EC%A1%B0%EB%AA%85/</link>
+      <link>https://neosolaris.github.io/woodlamp/categories/%EC%A1%B0%EB%AA%85/</link>
       <pubDate>Thu, 05 Jun 2025 08:37:14 +0000</pubDate>
-      <guid>https://examplesite.com/categories/%EC%A1%B0%EB%AA%85/</guid>
+      <guid>https://neosolaris.github.io/woodlamp/categories/%EC%A1%B0%EB%AA%85/</guid>
       <description></description>
     </item>
   </channel>
