@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>나무조명 on Borisu Woodlamp</title>
+    <link>http://localhost:1313/tags/%EB%82%98%EB%AC%B4%EC%A1%B0%EB%AA%85/</link>
+    <description>Recent content in 나무조명 on Borisu Woodlamp</description>
+    <image>
+      <title>Borisu Woodlamp</title>
+      <url>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.147.2</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 05 Jun 2025 08:37:14 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/%EB%82%98%EB%AC%B4%EC%A1%B0%EB%AA%85/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>나무조명3</title>
+      <link>http://localhost:1313/posts/third_post/</link>
+      <pubDate>Thu, 05 Jun 2025 08:37:14 +0000</pubDate>
+      <guid>http://localhost:1313/posts/third_post/</guid>
+      <description>&lt;p&gt;레트로 감성의 작은 나무등을 만들었다.
+작은 나무토막을 가공하여 탁자나 책상등에 올려 놓고 은은한 불빛의 감성에 빠져 보자.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>나무조명1</title>
+      <link>http://localhost:1313/posts/first_post/</link>
+      <pubDate>Thu, 05 Jun 2025 07:37:14 +0000</pubDate>
+      <guid>http://localhost:1313/posts/first_post/</guid>
+      <description>&lt;p&gt;여기는 처음 시작하는 줄이고 아래는 본문에 그림을 삽입한 것&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/lighthouse.jpg&#34;/&gt; &lt;figcaption&gt;
+            Lighthouse (그림2)
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;레트로 감성의 작은 나무등을 만들었다.
+작은 나무토막을 가공하여 탁자나 책상등에 올려 놓고 은은한 불빛의 감성에 빠져 보자.&lt;/p&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/OuIqpYha8yI?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;h2 id=&#34;hello-world&#34;&gt;Hello World&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;second_post&#34;&gt;second_post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;이것은 처음이다.&lt;/li&gt;
+&lt;li&gt;서버를 띄울 경우 바로 확인이 된다.&lt;/li&gt;
+&lt;li&gt;열심히 만들었다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hello-world2&#34;&gt;Hello World2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;이것은 처음이다.&lt;/li&gt;
+&lt;li&gt;서버를 띄울 경우 바로 확인이 된다.&lt;/li&gt;
+&lt;li&gt;열심히 만들었다.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    <item>
+      <title>나무조명2</title>
+      <link>http://localhost:1313/posts/second_post/</link>
+      <pubDate>Thu, 05 Jun 2025 07:37:14 +0000</pubDate>
+      <guid>http://localhost:1313/posts/second_post/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;first_post&#34;&gt;first_post&lt;/a&gt;
+레트로 감성의 작은 나무등2를 만들었다.
+작은 나무토막을 가공하여 탁자나 책상등에 올려 놓고 은은한 불빛의 감성에 빠져 보자.&lt;/p&gt;
+&lt;h2 id=&#34;재원&#34;&gt;재원&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;이것은 처음이다.&lt;/li&gt;
+&lt;li&gt;서버를 띄울 경우 바로 확인이 된다.&lt;/li&gt;
+&lt;li&gt;열심히 만들었다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;재원-설명1&#34;&gt;재원 설명1&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;이것은 처음이다.&lt;/li&gt;
+&lt;li&gt;서버를 띄울 경우 바로 확인이 된다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;재원-설명2&#34;&gt;재원 설명2&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;이것은 처음이다.&lt;/li&gt;
+&lt;li&gt;서버를 띄울 경우 바로 확인이 된다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;재원-설명3&#34;&gt;재원 설명3&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;이것은 처음이다.&lt;/li&gt;
+&lt;li&gt;서버를 띄울 경우 바로 확인이 된다.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>
