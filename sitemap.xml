@@ -3,40 +3,40 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://neosolaris.github.io/woodlamp/</loc>
-    <lastmod>2025-06-09T07:37:14+00:00</lastmod>
+    <lastmod>2025-06-18T07:48:52+09:00</lastmod>
   </url><url>
     <loc>https://neosolaris.github.io/woodlamp/categories/</loc>
-    <lastmod>2025-06-09T07:37:14+00:00</lastmod>
-  </url><url>
-    <loc>https://neosolaris.github.io/woodlamp/tags/new/</loc>
-    <lastmod>2025-06-09T07:37:14+00:00</lastmod>
-  </url><url>
-    <loc>https://neosolaris.github.io/woodlamp/posts/new/</loc>
-    <lastmod>2025-06-09T07:37:14+00:00</lastmod>
+    <lastmod>2025-06-18T07:48:52+09:00</lastmod>
   </url><url>
     <loc>https://neosolaris.github.io/woodlamp/posts/</loc>
-    <lastmod>2025-06-09T07:37:14+00:00</lastmod>
+    <lastmod>2025-06-18T07:48:52+09:00</lastmod>
   </url><url>
     <loc>https://neosolaris.github.io/woodlamp/tags/</loc>
-    <lastmod>2025-06-09T07:37:14+00:00</lastmod>
-  </url><url>
-    <loc>https://neosolaris.github.io/woodlamp/categories/test/</loc>
-    <lastmod>2025-06-09T07:37:14+00:00</lastmod>
+    <lastmod>2025-06-18T07:48:52+09:00</lastmod>
   </url><url>
     <loc>https://neosolaris.github.io/woodlamp/tags/%EB%82%98%EB%AC%B4%EC%A1%B0%EB%AA%85/</loc>
-    <lastmod>2025-06-05T08:37:14+00:00</lastmod>
+    <lastmod>2025-06-18T07:48:52+09:00</lastmod>
   </url><url>
-    <loc>https://neosolaris.github.io/woodlamp/posts/third_post/</loc>
-    <lastmod>2025-06-05T08:37:14+00:00</lastmod>
+    <loc>https://neosolaris.github.io/woodlamp/posts/second_post/</loc>
+    <lastmod>2025-06-18T07:48:52+09:00</lastmod>
   </url><url>
     <loc>https://neosolaris.github.io/woodlamp/tags/%EB%AA%A9%EA%B3%B5/</loc>
-    <lastmod>2025-06-05T08:37:14+00:00</lastmod>
+    <lastmod>2025-06-18T07:48:52+09:00</lastmod>
   </url><url>
     <loc>https://neosolaris.github.io/woodlamp/tags/%EB%AC%B4%EB%93%9C%EB%93%B1/</loc>
-    <lastmod>2025-06-05T08:37:14+00:00</lastmod>
+    <lastmod>2025-06-18T07:48:52+09:00</lastmod>
   </url><url>
     <loc>https://neosolaris.github.io/woodlamp/categories/%EC%A1%B0%EB%AA%85/</loc>
-    <lastmod>2025-06-05T08:37:14+00:00</lastmod>
+    <lastmod>2025-06-18T07:48:52+09:00</lastmod>
+  </url><url>
+    <loc>https://neosolaris.github.io/woodlamp/categories/%EB%82%98%EB%AC%B4%EC%A1%B0%EB%AA%85/</loc>
+    <lastmod>2025-06-18T07:39:55+09:00</lastmod>
+  </url><url>
+    <loc>https://neosolaris.github.io/woodlamp/posts/third_post/</loc>
+    <lastmod>2025-06-18T07:39:55+09:00</lastmod>
+  </url><url>
+    <loc>https://neosolaris.github.io/woodlamp/categories/%EB%AC%B4%EB%93%9C%EB%93%B1/</loc>
+    <lastmod>2025-06-18T07:39:55+09:00</lastmod>
   </url><url>
     <loc>https://neosolaris.github.io/woodlamp/about/</loc>
     <lastmod>2025-06-05T07:57:14+00:00</lastmod>
@@ -44,8 +44,9 @@
     <loc>https://neosolaris.github.io/woodlamp/posts/first_post/</loc>
     <lastmod>2025-06-05T07:37:14+00:00</lastmod>
   </url><url>
-    <loc>https://neosolaris.github.io/woodlamp/posts/second_post/</loc>
-    <lastmod>2025-06-05T07:37:14+00:00</lastmod>
+    <loc>https://neosolaris.github.io/woodlamp/posts/windex/</loc>
+  </url><url>
+    <loc>https://neosolaris.github.io/woodlamp/archive/</loc>
   </url><url>
     <loc>https://neosolaris.github.io/woodlamp/search/</loc>
   </url>
