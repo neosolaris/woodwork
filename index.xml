@@ -11,8 +11,37 @@
     </image>
     <generator>Hugo -- 0.147.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Jun 2025 07:48:52 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 18 Jun 2025 08:58:28 +0900</lastBuildDate>
     <atom:link href="https://neosolaris.github.io/woodlamp/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>나무조명1</title>
+      <link>https://neosolaris.github.io/woodlamp/posts/first_post/</link>
+      <pubDate>Wed, 18 Jun 2025 08:58:28 +0900</pubDate>
+      <guid>https://neosolaris.github.io/woodlamp/posts/first_post/</guid>
+      <description>&lt;p&gt;여기는 처음 시작하는 줄이고 아래는 본문에 그림을 삽입한 것&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img loading=&#34;lazy&#34; src=&#34;https://neosolaris.github.io/woodlamp/images/lighthouse.jpg&#34;/&gt; &lt;figcaption&gt;
+            Lighthouse (그림2)
+        &lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;레트로 감성의 작은 나무등을 만들었다.
+작은 나무토막을 가공하여 탁자나 책상등에 올려 놓고 은은한 불빛의 감성에 빠져 보자.&lt;/p&gt;
+&lt;p&gt;haha hoho&lt;/p&gt;
+&lt;h2 id=&#34;hello-world&#34;&gt;Hello World&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;../second_post&#34;&gt;second_post&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;이것은 처음이다.&lt;/li&gt;
+&lt;li&gt;서버를 띄울 경우 바로 확인이 된다.&lt;/li&gt;
+&lt;li&gt;열심히 만들었다.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;hello-world2&#34;&gt;Hello World2&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;이것은 처음이다.&lt;/li&gt;
+&lt;li&gt;서버를 띄울 경우 바로 확인이 된다.&lt;/li&gt;
+&lt;li&gt;열심히 만들었다.&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
     <item>
       <title>나무조명2</title>
       <link>https://neosolaris.github.io/woodlamp/posts/second_post/</link>
@@ -88,35 +117,6 @@
 &lt;li&gt;Unix의 철학, &lt;code&gt;작은 것이 아름답다&lt;/code&gt;를 실천한다.&lt;/li&gt;
 &lt;li&gt;최종 목표는 손쉬운 문서 작성과 관리를 단순화 하는 것.&lt;/li&gt;
 &lt;li&gt;문서는 시간이 지날 수록 완성되고 조직화될 것이다.&lt;/li&gt;
-&lt;/ul&gt;</description>
-    </item>
-    <item>
-      <title>나무조명1</title>
-      <link>https://neosolaris.github.io/woodlamp/posts/first_post/</link>
-      <pubDate>Thu, 05 Jun 2025 07:37:14 +0000</pubDate>
-      <guid>https://neosolaris.github.io/woodlamp/posts/first_post/</guid>
-      <description>&lt;p&gt;여기는 처음 시작하는 줄이고 아래는 본문에 그림을 삽입한 것&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://neosolaris.github.io/woodlamp/images/lighthouse.jpg&#34;/&gt; &lt;figcaption&gt;
-            Lighthouse (그림2)
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
-
-&lt;p&gt;레트로 감성의 작은 나무등을 만들었다.
-작은 나무토막을 가공하여 탁자나 책상등에 올려 놓고 은은한 불빛의 감성에 빠져 보자.&lt;/p&gt;
-&lt;p&gt;haha hoho&lt;/p&gt;
-&lt;h2 id=&#34;hello-world&#34;&gt;Hello World&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;../second_post&#34;&gt;second_post&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;이것은 처음이다.&lt;/li&gt;
-&lt;li&gt;서버를 띄울 경우 바로 확인이 된다.&lt;/li&gt;
-&lt;li&gt;열심히 만들었다.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;hello-world2&#34;&gt;Hello World2&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;이것은 처음이다.&lt;/li&gt;
-&lt;li&gt;서버를 띄울 경우 바로 확인이 된다.&lt;/li&gt;
-&lt;li&gt;열심히 만들었다.&lt;/li&gt;
 &lt;/ul&gt;</description>
     </item>
     <item>
