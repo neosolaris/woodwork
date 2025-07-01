@@ -1,29 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>나무조명 on Borisu Woodlamp</title>
-    <link>https://neosolaris.github.io/woodlamp/categories/%EB%82%98%EB%AC%B4%EC%A1%B0%EB%AA%85/</link>
-    <description>Recent content in 나무조명 on Borisu Woodlamp</description>
-    <image>
-      <title>Borisu Woodlamp</title>
-      <url>https://neosolaris.github.io/woodlamp/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://neosolaris.github.io/woodlamp/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <title>나무조명 on Borisu Woodwork</title>
+    <link>https://neosolaris.github.io/woodwork/categories/%EB%82%98%EB%AC%B4%EC%A1%B0%EB%AA%85/</link>
+    <description>Recent content in 나무조명 on Borisu Woodwork</description>
     <generator>Hugo -- 0.147.2</generator>
     <language>en</language>
-    <lastBuildDate>Wed, 18 Jun 2025 17:56:31 +0900</lastBuildDate>
-    <atom:link href="https://neosolaris.github.io/woodlamp/categories/%EB%82%98%EB%AC%B4%EC%A1%B0%EB%AA%85/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 18 Jun 2025 07:39:55 +0900</lastBuildDate>
+    <atom:link href="https://neosolaris.github.io/woodwork/categories/%EB%82%98%EB%AC%B4%EC%A1%B0%EB%AA%85/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>나무조명3</title>
-      <link>https://neosolaris.github.io/woodlamp/posts/third_post/</link>
+      <link>https://neosolaris.github.io/woodwork/posts/table_241025/</link>
       <pubDate>Wed, 18 Jun 2025 07:39:27 +0900</pubDate>
-      <guid>https://neosolaris.github.io/woodlamp/posts/third_post/</guid>
+      <guid>https://neosolaris.github.io/woodwork/posts/table_241025/</guid>
       <description>&lt;p&gt;여기는 처음 시작하는 줄이고 아래는 본문에 그림을 삽입한 것&lt;/p&gt;
-&lt;figure&gt;
-    &lt;img loading=&#34;lazy&#34; src=&#34;https://neosolaris.github.io/woodlamp/images/lighthouse.jpg&#34;/&gt; &lt;figcaption&gt;
-            Lighthouse (그림2)
-        &lt;/figcaption&gt;
-&lt;/figure&gt;
+
+&lt;link rel=&#34;stylesheet&#34; href=https://neosolaris.github.io/woodwork/css/hugo-easy-gallery.css /&gt;
+&lt;div class=&#34;box&#34; &gt;
+  &lt;figure  itemprop=&#34;associatedMedia&#34; itemscope itemtype=&#34;http://schema.org/ImageObject&#34;&gt;
+    &lt;div class=&#34;img&#34;&gt;
+      &lt;img itemprop=&#34;thumbnail&#34; src=&#34;https://neosolaris.github.io/woodwork/woodlamp/images/lighthouse.jpg&#34; /&gt;
+    &lt;/div&gt;
+    &lt;a href=&#34;https://neosolaris.github.io/woodwork/woodlamp/images/lighthouse.jpg&#34; itemprop=&#34;contentUrl&#34;&gt;&lt;/a&gt;
+      &lt;figcaption&gt;&lt;h4&gt;Lighthouse (그림2)&lt;/h4&gt;
+      &lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
 
 &lt;p&gt;레트로 감성의 작은 나무등을 만들었다.
 작은 나무토막을 가공하여 탁자나 책상등에 올려 놓고 은은한 불빛의 감성에 빠져 보자.&lt;/p&gt;
